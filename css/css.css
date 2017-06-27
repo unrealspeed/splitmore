@@ -1,0 +1,28 @@
+.custombutton {
+  color: #fff;
+  background-color: #004C70;
+  border-color: #004C70;
+  float: right;
+}
+.customvacbutton {
+  color: #fff;
+  background-color: #004C70;
+  border-color: #004C70;
+}
+.custom-heading {
+  background-color: #006495 !important;
+  color: #fff !important;
+}
+.navbar-default {
+  background-color: #004C70;
+  color: #fff;
+}
+.navbar-default .navbar-brand {
+  color: #fff;
+}
+.navbar-default .navbar-nav>li>a {
+  color: #fff;
+}
+.html .body {
+  background-color: #F2635F;
+}
